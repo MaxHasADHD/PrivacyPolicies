@@ -13,3 +13,5 @@ RevenueCat: If you purchase a tip from our app then RevenueCat processes the pay
 ## I have a question that isn't answered here.
 
 Please [contact us](maxlitteral+ReviewsTimeSupport@gmail.com) and we'll get back to you.
+
+Last change made on 6/16/2019
