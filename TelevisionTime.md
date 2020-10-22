@@ -1,29 +1,34 @@
 # Television Time Privacy Policy
 
-This policy applies to all information collected or submitted on Television Times’s website and our apps for iPhone and any other devices and platforms.
-
 ## Information we collect
-
-For the majority of users, we do not collect any information. The app does not share information about your device, what you watch, or who you are.
-
-The app does keep a on-device log file with information such as when a show was added to a list, or which functions during sync were called. This log file is saved and stored on-device, and is only used when using the "Send Feedback" button of the app by attaching this file to the email. If you wish to not include this file with your support email, you may tap on it and detach it from the email. The information within the log file is useful to help with support issues.
-We do not share your personal information with outside parties ever. Emails are only kept for the duration of the support inquiry and are deleted immediately after finding a resolution to the inquiry, or up to a month if waiting for response.
+Television Time stores information about your shows, episodes, progress, and app settings. This information is saved locally to the device, and if enabled, will sync between your devices using the same Apple ID / Trakt.tv account. The app also keeps a record of the actions performed in the app such as which shows were added and episodes watched to a file saved on the device called a log.
 
 ## Information Usage
+Information collected is only used for the purpose of improving the app, and customer support. I do not share personal information with outside parties except to the extent necessary to accomplish Television Time's functionality.
 
-The information collected is only used for the purpse of providing support to the user who sent it.
+## Log file
+This file only ever leaves your device when using the "Send Feedback" feature of the app and is used to provide customer support. The log file does not include any personally identifiable information. If you wish to not include this file with your support email, you may tap on it and detach it from the email.
 
 ## Third-party links and content
-
-Television Time displays links and content from third-party entertainment sites, and downloads show information and posters from these sites. These have their own independent privacy policies, and we have no responsibility or liability for their content or activities.
+Television Time displays links and content from third-party sites such as trakt.tv, themoviedb.org, and thetvdb.com. These sites have their own independent privacy policies, and we have no responsibility or liability for their content or activities.
 
 ## What other entities does the developer use to process or store personal data?
+### Trakt
+When signed into Trakt, Television Time may collect your Trakt content history for the purposes of syncing this information between your devices. Refer to Trakt's Privacy Policy for more information on how your data is handled.
 
-Trakt.tv: Television Time uses the Trakt.tv API for show information, and sync if you have signed in / created an account with Trakt.tv
-iCloud: Television Time saves data to your personal iCloud account if using the iCloud sync feature of the app. 
+### iCloud
+Television Time saves some of your data in Apple's iCloud service, such as your shows and episodes to enable sync between all devices signed into your Apple ID.
+
+## California Online Privacy Protection Act Compliance
+We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+## Your Consent
+By using the Television Time app or website, you consent to my privacy policy.
+
+## Revisions to this privacy policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. These changes are effective immediately upon posting this page.
 
 ## I have a question that isn't answered here.
-
 Please [contact us](support@televisiontime.app) and we'll get back to you.
 
-Last change made on 6/18/2019
+Last change made on 10/22/2020
