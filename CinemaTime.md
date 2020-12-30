@@ -1,28 +1,28 @@
 # Cinema Time Privacy Policy
 
-This policy applies to all information collected or submitted on Cinema Times’s website and our apps for iPhone and any other devices and platforms.
-
 ## Information we collect
-
-For the majority of users, we do not collect any information. The app does not share information about your device, what you watch, or who you are.
-
-The app does keep a on-device log file with information such as when a movie was added to a list, or which steps during sync were called. This log file is saved and stored on-device, and is only used when using the "Send Feedback" button of the app by attaching this file to the email. If you wish to not include this file with your support email, you may tap on it and detach it from the email. The information within the log file is useful to help with support issues.
-We do not share your personal information with outside parties ever. Emails are only kept for the duration of the support inquiry and are deleted immediately after finding a resolution to the inquiry, or up to a month if waiting for response.
+The app (Cinema Time) saves your data (movies, lists, watches, app settings, etc) on your device. This data only ever leaves the device if you're signed in to Trakt.tv, in which case we'll sync your actions (Marking a movie as watched, adding to a list, creating a list, etc) to Trakt.tv via their API.
 
 ## Information Usage
-
-The information collected is only used for the purpse of providing support to the user who sent it.
+Information collected is only used for the purpose of improving the app, and customer support. I do not share personal information with outside parties except to the extent necessary to accomplish Cinema Time's functionality.
 
 ## Third-party links and content
-
-Cinema Time displays links and content from third-party entertainment sites, and downloads movie information and posters from these sites. These have their own independent privacy policies, and we have no responsibility or liability for their content or activities.
+Cinema Time displays links and content from third-party sites such as trakt.tv, themoviedb.org, and thetvdb.com. These sites have their own independent privacy policies, and we have no responsibility or liability for their content or activities.
 
 ## What other entities does the developer use to process or store personal data?
+### Trakt
+When signed into Trakt, Cinema Time may collect your Trakt content history for the purposes of syncing this information between your devices. Refer to Trakt's Privacy Policy for more information on how your data is handled.
 
-Trakt.tv: Cinema Time uses the Trakt.tv API for movie information, and sync if you have signed in / created an account with Trakt.tv
+## California Online Privacy Protection Act Compliance
+We comply with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+## Your Consent
+By using the Cinema Time app or website, you consent to my privacy policy.
+
+## Revisions to this privacy policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. These changes are effective immediately upon posting this page.
 
 ## I have a question that isn't answered here.
-
 Please [contact us](support@cinematime.app) and we'll get back to you.
 
-Last change made on 6/18/2019
+Last change made on 12/30/2020
